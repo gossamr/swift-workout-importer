@@ -1,0 +1,7 @@
+title,start_time,end_time,description,exercise_title,superset_id,exercise_notes,set_index,set_type,weight_kg,reps,distance_km,duration_seconds,rpe
+"Pull","23 Mar 2026, 13:54","23 Mar 2026, 14:42","","Lat Pulldown (Cable)",,"",0,"normal",27.2,12,,,
+"Pull","23 Mar 2026, 13:54","23 Mar 2026, 14:42","","Lat Pulldown (Cable)",,"",1,"normal",27.2,12,,,
+"Pull","23 Mar 2026, 13:54","23 Mar 2026, 14:42","","Lat Pulldown (Cable)",,"",2,"normal",31.8,10,,,
+"Pull","23 Mar 2026, 13:54","23 Mar 2026, 14:42","","Bicep Curl (Cable)",,"",0,"normal",25,12,,,
+"Pull","23 Mar 2026, 13:54","23 Mar 2026, 14:42","","Bicep Curl (Cable)",,"",1,"normal",22.7,9,,,
+"Cardio","24 Mar 2026, 08:00","24 Mar 2026, 08:30","","Running",,"",0,"normal",,,5,1500,

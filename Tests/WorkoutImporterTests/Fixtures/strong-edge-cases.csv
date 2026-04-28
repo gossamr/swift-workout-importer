@@ -1,0 +1,8 @@
+﻿Date,Workout Name,Duration,Exercise Name,Set Order,Weight,Reps,Distance,Seconds,Notes,Workout #
+2024-12-01,Edge-case-day,20:00,Squat (Barbell),1,135,5,,,"Felt great, RPE 7",4
+2024-12-01,Edge-case-day,20:00,Squat (Barbell),2,135,5,,,"Multi-line note:
+Line two of note
+Line three",4
+2024-12-01,Edge-case-day,20:00,Deadlift (Barbell),1,225,3,,,,4
+2024-12-01,Edge-case-day,20:00,Deadlift (Barbell),2,275,1,,,"PR! New best, very happy",4
+2024-12-01,Edge-case-day,20:00,Running,1,,,5000,1500,"Distance run",4

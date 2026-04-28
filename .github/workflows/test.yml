@@ -1,0 +1,33 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Test on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        # macos-15 ships with Xcode 16, which includes the Swift Testing
+        # framework. The package manifest stays at swift-tools-version: 5.10;
+        # Xcode 16 builds 5.10 packages without Swift 6 language mode.
+        os: [macos-15]
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Show Swift version
+        run: swift --version
+
+      - name: Resolve dependencies
+        run: swift package resolve
+
+      - name: Build
+        run: swift build -v
+
+      - name: Test
+        run: swift test -v

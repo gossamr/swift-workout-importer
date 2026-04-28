@@ -1,0 +1,13 @@
+﻿title,start_time,end_time,description,exercise_title,superset_id,exercise_notes,set_index,set_type,weight_lbs,reps,distance_miles,duration_seconds,rpe
+"Edge Day","01 Jan 2025, 09:00","01 Jan 2025, 10:00","Multi-line description:
+Line two of desc
+Line three","Squat (Barbell)",,"Felt great, RPE 7 today",0,"warmup",45,10,,,
+"Edge Day","01 Jan 2025, 09:00","01 Jan 2025, 10:00","Multi-line description:
+Line two of desc
+Line three","Squat (Barbell)",,"Felt great, RPE 7 today",1,"normal",135,5,,,
+"Edge Day","01 Jan 2025, 09:00","01 Jan 2025, 10:00","Multi-line description:
+Line two of desc
+Line three","Plank","","",0,"",,,,,
+"Edge Day","01 Jan 2025, 09:00","01 Jan 2025, 10:00","Multi-line description:
+Line two of desc
+Line three","Plank","","",1,"normal",,,,60,

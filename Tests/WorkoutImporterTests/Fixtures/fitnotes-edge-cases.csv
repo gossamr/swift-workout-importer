@@ -1,0 +1,13 @@
+﻿Date,Exercise,Category,Weight (kg),Weight (lbs),Reps,Distance,Distance Unit,Time,Notes,Kind
+2024-12-01,Squat (Barbell),Legs,100,,5,,,,"Felt great, RPE 7",wr
+2024-12-01,Squat (Barbell),Legs,100,,5,,,,"Multi-line note:
+Line two of note
+Line three",wr
+2024-12-01,Walk Test,Cardio,,,,1,m,,,d
+2024-12-01,Walk Test,Cardio,,,,1,km,,,d
+2024-12-01,Walk Test,Cardio,,,,1,cm,,,d
+2024-12-01,Walk Test,Cardio,,,,1,in,,,d
+2024-12-01,Walk Test,Cardio,,,,1,ft,,,d
+2024-12-01,Walk Test,Cardio,,,,1,yd,,,d
+2024-12-01,Walk Test,Cardio,,,,1,mi,,,d
+2024-12-01,Bare Bones,,,,,,,,,r
